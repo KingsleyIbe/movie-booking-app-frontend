@@ -27,3 +27,12 @@ import NavBar from '../navbar/NavBar';
                 className="py-2 px-3 border border-gray-300 w-full"
               />
             </label>
+             </div>
+          <div className="flex mb-4">
+            <label htmlFor="releaseDate" className="block mr-5 w-1/2">
+              <span className="block mb-1">Release Date</span>
+              <input
+                type="date"
+                id="releaseDate"
+                className="py-2 px-3 border border-gray-300 w-full"
+              />
