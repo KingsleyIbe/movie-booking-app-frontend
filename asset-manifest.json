@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bookstore/static/css/main.e2e6fe7f.css",
-    "main.js": "/bookstore/static/js/main.49b57b56.js",
-    "static/media/login-register.jpg": "/bookstore/static/media/login-register.39b67988cd4fa9405498.jpg",
-    "static/media/hero-bg.jpg": "/bookstore/static/media/hero-bg.4a317cdc1a11a236da66.jpg",
-    "index.html": "/bookstore/index.html",
-    "main.e2e6fe7f.css.map": "/bookstore/static/css/main.e2e6fe7f.css.map",
-    "main.49b57b56.js.map": "/bookstore/static/js/main.49b57b56.js.map"
+    "main.css": "/movie-booking-app-frontend/static/css/main.17ba4d27.css",
+    "main.js": "/movie-booking-app-frontend/static/js/main.49b57b56.js",
+    "static/media/login-register.jpg": "/movie-booking-app-frontend/static/media/login-register.39b67988cd4fa9405498.jpg",
+    "static/media/hero-bg.jpg": "/movie-booking-app-frontend/static/media/hero-bg.4a317cdc1a11a236da66.jpg",
+    "index.html": "/movie-booking-app-frontend/index.html",
+    "main.17ba4d27.css.map": "/movie-booking-app-frontend/static/css/main.17ba4d27.css.map",
+    "main.49b57b56.js.map": "/movie-booking-app-frontend/static/js/main.49b57b56.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2e6fe7f.css",
+    "static/css/main.17ba4d27.css",
     "static/js/main.49b57b56.js"
   ]
 }
