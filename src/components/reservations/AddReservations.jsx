@@ -12,3 +12,7 @@ import NavBar from '../navbar/NavBar';
             <label htmlFor="title" className="block mr-5 w-1/2">
               <span className="block mb-1">Title</span>
               <input
+                type="text"
+                id="title"
+                className="py-2 px-3 border border-gray-300 w-full"
+                placeholder="Enter movie title"
