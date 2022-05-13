@@ -16,3 +16,14 @@ import NavBar from '../navbar/NavBar';
                 id="title"
                 className="py-2 px-3 border border-gray-300 w-full"
                 placeholder="Enter movie title"
+                  />
+            </label>
+            <label htmlFor="director" className="block w-1/2">
+              <span className="block mb-1">Director</span>
+              <input
+                type="text"
+                id="director"
+                placeholder="Enter director name"
+                className="py-2 px-3 border border-gray-300 w-full"
+              />
+            </label>
